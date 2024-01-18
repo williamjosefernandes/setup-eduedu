@@ -62,7 +62,8 @@ Para obter o IP da máquina, siga os passos abaixo:
 
 Após finalizada a execução do script de instalação, será exibido um resultado similar ao da imagem abaixo:
 
-![installation-done](./docs/installation-done.png)
+![image](https://github.com/williamjosefernandes/setup-eduedu/assets/7990074/8f980db0-a473-4bb9-895a-1feb01fa2eab)
+
 
 O Portal Admin poderá ser acessado no endereço:
 <b>http://<IP da máquina informado>:8080</b>
